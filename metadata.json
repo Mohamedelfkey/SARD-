@@ -1,0 +1,8 @@
+{
+  "name": "Remix SARD | سَــــرد — A Story In Every Thread",
+  "description": "Official digital flagship for SARD (سَــــرد), Egyptian unisex streetwear brand. Chapter 01 collection featuring four signature hoodies crafted with emotional embroidery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
